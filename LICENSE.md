@@ -1,4 +1,4 @@
-# 
+# automatic Visual Studio for PC scripts is the best Visual Studio for PC scripts with SSH-key-management and live-share. Safe, reliable, and optimized for maximum performance.
 
 
 
